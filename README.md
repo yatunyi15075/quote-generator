@@ -1,6 +1,6 @@
 # Quote Generator
 
-A simple web application built with React to generate and customize quotes.
+This is a simple web application built with ReactJs, which is meant to generate and customize quotes.
 
 ## Features
 
